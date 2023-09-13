@@ -27,10 +27,50 @@ class _CalculatorState extends State<Calculator> {
               const SizedBox(
                 width: double.infinity,
                 height: 150,
-                child: Card(
-                  elevation: 10,
-                  shadowColor: Colors.red,
-                  child: Text('Display'),
+                child: Padding(
+                  padding: EdgeInsets.only(
+                    bottom: 20,
+                  ),
+                  child: Card(
+                    color: Colors.black,
+                    elevation: 10,
+                    shadowColor: Colors.orange,
+                    child: Column(
+                      mainAxisAlignment: MainAxisAlignment.end,
+                      children: [
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment.end,
+                          children: [
+                            Padding(
+                              padding: EdgeInsets.all(8.0),
+                              child: Text(
+                                'History',
+                                style: TextStyle(
+                                  fontSize: 24,
+                                  color: Colors.white,
+                                ),
+                              ),
+                            ),
+                          ],
+                        ),
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment.end,
+                          children: [
+                            Padding(
+                              padding: EdgeInsets.all(8.0),
+                              child: Text(
+                                'Result',
+                                style: TextStyle(
+                                  fontSize: 24,
+                                  color: Colors.white,
+                                ),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ],
+                    ),
+                  ),
                 ),
               ),
               Padding(
@@ -49,7 +89,7 @@ class _CalculatorState extends State<Calculator> {
                     TextButton(
                       onPressed: () {},
                       child: const CircleAvatar(
-                        backgroundColor: Colors.orange,
+                        backgroundColor: Colors.green,
                         radius: 30,
                         child: Text('C'),
                       ),
@@ -57,7 +97,7 @@ class _CalculatorState extends State<Calculator> {
                     TextButton(
                       onPressed: () {},
                       child: const CircleAvatar(
-                        backgroundColor: Colors.orange,
+                        backgroundColor: Colors.green,
                         radius: 30,
                         child: Text('<'),
                       ),
@@ -65,7 +105,7 @@ class _CalculatorState extends State<Calculator> {
                     TextButton(
                       onPressed: () {},
                       child: const CircleAvatar(
-                        backgroundColor: Colors.orange,
+                        backgroundColor: Colors.green,
                         radius: 30,
                         child: Text('/'),
                       ),
@@ -102,7 +142,7 @@ class _CalculatorState extends State<Calculator> {
                     TextButton(
                       onPressed: () {},
                       child: const CircleAvatar(
-                        backgroundColor: Colors.orange,
+                        backgroundColor: Colors.green,
                         radius: 30,
                         child: Text('X'),
                       ),
@@ -139,7 +179,7 @@ class _CalculatorState extends State<Calculator> {
                     TextButton(
                       onPressed: () {},
                       child: const CircleAvatar(
-                        backgroundColor: Colors.orange,
+                        backgroundColor: Colors.green,
                         radius: 30,
                         child: Text('-'),
                       ),
@@ -176,7 +216,7 @@ class _CalculatorState extends State<Calculator> {
                     TextButton(
                       onPressed: () {},
                       child: const CircleAvatar(
-                        backgroundColor: Colors.orange,
+                        backgroundColor: Colors.green,
                         radius: 30,
                         child: Text('+'),
                       ),
