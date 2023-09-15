@@ -7,7 +7,7 @@
 | SN | Task Name | Submission Date | Details(clickable) | Tech Used |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | Calculator | October 2023 | [Task 1]() |  |
-| 2 | Temperature converter | October 2023 | [Task 2]() |  |
+| 2 | Temperature converter | October 2023 | [Task 2]()
 | 3 | Quiz | October 2023 | [Task 3]() |  |
  
 <br><br>
