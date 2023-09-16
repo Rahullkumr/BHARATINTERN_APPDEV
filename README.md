@@ -3,15 +3,18 @@
 
 ![](./ad.png)
 
-## Task Table:
+## Task Table
 | SN | Task Name | Submission Date | Details(clickable) | Tech Used |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | Calculator | October 2023 | [Task 1]() |  |
+| 1 | Basic Calculator | September 2023 | [Task 1](https://github.com/Rahullkumr/BHARATINTERN_APPDEV/tree/main/Task1_Calculator) | Flutter and Dart |
 | 2 | Temperature converter | October 2023 | [Task 2]() |  |
 | 3 | Quiz | October 2023 | [Task 3]() |  |
  
 <br><br>
-### 1. [Calculator]()
+## Following are the projects
+
+### 1. [Basic Calculator](https://github.com/Rahullkumr/BHARATINTERN_APPDEV/blob/main/Task1_Calculator/calc.gif)
+![](https://github.com/Rahullkumr/BHARATINTERN_APPDEV/blob/main/Task1_Calculator/calc.gif)
 <br>
 
 ### 2. [Temperature converter]()
