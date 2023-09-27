@@ -18,7 +18,7 @@
 <br>
 
 ### 2. [Temperature converter](https://github.com/Rahullkumr/BHARATINTERN_APPDEV/tree/develop/Task2_TemperatureConverter/taapmaan)
-![](https://github.com/Rahullkumr/BHARATINTERN_APPDEV/tree/develop/Task2_TemperatureConverter/taapmaan/tc.gif)
+![](https://github.com/Rahullkumr/BHARATINTERN_APPDEV/blob/develop/Task2_TemperatureConverter/taapmaan/tc.gif)
 <br>
 
 ### 3. [Quiz]()
