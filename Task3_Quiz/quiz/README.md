@@ -6,9 +6,9 @@
 
 ## Screenshots
 
-| ![screenshot](./quiz/sc1.jpg) | ![screenshot](./quiz/sc2.jpg)  | ![screenshot](./quiz/sc3.jpg)  | ![screenshot](./quiz/sc4.jpg)  |
+| ![screenshot](./sc1.jpg) | ![screenshot](./sc2.jpg)  | ![screenshot](./sc3.jpg)  | ![screenshot](./sc4.jpg)  |
 | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
 
 ## The app looks like this ⬇
 
-![](./quiz/quiz.gif)
+![](./quiz.gif)
