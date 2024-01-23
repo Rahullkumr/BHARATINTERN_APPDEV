@@ -1,4 +1,4 @@
-# taapmaan
+# Calculator
 
 A new Flutter project for Basic Calculator
 
